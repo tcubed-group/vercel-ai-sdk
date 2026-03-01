@@ -34,11 +34,11 @@
     "@vercel/ai-tsconfig": "workspace:*",
     "tsup": "^8",
     "typescript": "5.6.3",
-    "valibot": "^1.0.0-rc.0 || ^1.0.0"
+    "valibot": "^1.2.0"
   },
   "peerDependencies": {
     "@valibot/to-json-schema": "^1.0.0-rc.0 || ^1.0.0",
-    "valibot": "^1.0.0-rc.0 || ^1.0.0"
+    "valibot": "^1.2.0"
   },
   "engines": {
     "node": ">=18"
